@@ -1,0 +1,60 @@
+Name: Xiaofeng Luo
+USC NetId: luoxiaof
+CSCI 455 PA1
+Fall 2021
+
+----------------------------------------------
+CERTIFY IT'S YOUR WORK
+
+"I certify that the work submitted for this assignment does not
+violate USC's student conduct code.  In particular, the work is my
+own, not a collaboration, and does not involve code created by other
+people, except for the the resources explicitly mentioned in the CS 455
+Course Syllabus.  And I did not share my solution or parts of it with
+other students in the course."
+
+Initial below to "sign" the above statement:
+
+Xiaofeng Luo
+
+----------------------------------------------
+ACKNOWLEDGE ANY OUTSIDE SOURCES
+
+List here any code you submitted for this assignment that was written
+with significant help of a course staff member, or code used from the
+textbook.  Be specific about what methods or algorithms are involved,
+and what sections of the textbook are involved (if applicable): [you do
+not need to list any of the code that we wrote for the assignment,
+i.e., the contents of the starter files for the assignment]
+
+
+
+----------------------------------------------
+KNOWN BUGS or LIMITATIONS:
+
+
+
+----------------------------------------------
+ANY OTHER NOTES FOR THE GRADER:
+
+
+
+----------------------------------------------
+ANSWERS TO ASSIGNMENT README QUESTIONS (if applicable):
+
+Question 1:
+We are not allowed to use a solution or adapted solution to an assignment that we found on the web in CS 455.
+
+Question 2:
+Probability of "two heads": 0.25
+Probability of "one head and one tail": 0.5
+Probability of "two tails": 0.25
+Because the event "one head and one tail" actually includes two outcomes.
+
+Question 3:
+6000
+
+Question 4:
+The largest value I tried where it still worked correctly: 2147483647
+The one I tried where it overflowed: 2147483648
+
